@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="mySuiteApptive">
+	
+	<test name="mySuiteApptive">
+		<classes>
+			<class name="com.qaminds.testget_apptive.IntroductionTests"></class>
+		</classes>
+	</test>
+</suite>
